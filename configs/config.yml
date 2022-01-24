@@ -2,7 +2,7 @@ port: 9000
 
 db:
   username: "postgres"
-  password: "th2empty_admin"
+  password: "type it on .env file"
   host: "localhost"
   port: "5436"
   dbname: "postgres"
